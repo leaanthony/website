@@ -1,5 +1,5 @@
 +++
-title = "Clir"
+title = "Clîr"
 date = "2019-11-22"
 +++
 
@@ -8,4 +8,5 @@ date = "2019-11-22"
 A Simple and Clear CLI library. Dependency free.
 
 * [Github](https://github.com/leaanthony/clir)
+* [Docs](https://clir.leaanthony.com)
 
