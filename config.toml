@@ -21,6 +21,9 @@ googleAnalytics = "UA-49441277-1"
   # noreferrerLinks = true
   # nofollowLinks = true
 
+[markup.goldmark.renderer] 
+  unsafe = true
+
 [taxonomies]
   tag = "tags"
   # Categories are disabled by default.
@@ -71,3 +74,8 @@ googleAnalytics = "UA-49441277-1"
     name = "Projects"
     url = "projects"
     weight = 20
+
+  [[menu.main]]
+    name = "Art"
+    url = "art"
+    weight = 30
